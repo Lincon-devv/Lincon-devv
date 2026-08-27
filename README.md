@@ -128,23 +128,6 @@ Jogo de labirinto baseado em matriz (array 2D), com lógica de movimentação e 
 
 <br>
 
-## `> activity_monitor`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lincon-devv&bg_color=00000000&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-## `> achievement_system`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lincon-devv&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
 
 <br>
 
@@ -163,8 +146,8 @@ Jogo de labirinto baseado em matriz (array 2D), com lógica de movimentação e 
 <div align="center">
 
 <a href="https://github.com/Lincon-devv"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
+<a href="https://www.linkedin.com/in/lazarolincon"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
+<a href="mailto:lazarolelis.work@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
 
 </div>
 
